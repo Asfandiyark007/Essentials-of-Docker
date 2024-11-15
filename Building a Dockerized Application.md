@@ -25,7 +25,9 @@ if __name__ == "__main__":
 
 3) Create a `requirements.txt` file and copy paste the below.
 ```sh
-Flask==2.1.2
+Flask==2.0.3
+Werkzeug==2.0.3
+
 ``` 
 4) ### Write a DockerFile:
 - Make a file named `DockerFile` (without any extension) and paste the below code.
