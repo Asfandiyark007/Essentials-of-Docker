@@ -28,7 +28,7 @@ if __name__ == "__main__":
 Flask==2.1.2
 ``` 
 4) ### Write a DockerFile:
-
+- Make a file named `DockerFile` (without any extension) and paste the below code.
 ```sh
 # Use an official Python runtime as a parent image
 FROM python:3.9-slim
