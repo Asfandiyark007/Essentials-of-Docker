@@ -3,7 +3,7 @@ Containers are a lightweight, portable, and self-sufficient system for running a
 ## Key Concepts:
 ### Containers vs. Virtual Machines: 
 - Containers share the host system’s kernel, while virtual machines include a full copy of an operating system.
-![alt text](image.png)
+![alt text](/images/image.png)
 #### Images and Containers: 
 An image is a static snapshot of a container's setup, while a container is an instance of an image. ( --> To explain this a little "an image is like a toy box that has instructions and parts for building a specific toy" but when all these parts are build then it is a container <-- ).
 
@@ -18,7 +18,7 @@ An image is a static snapshot of a container's setup, while a container is an in
 2) Easy to run different versions of same app without any conflicts.
 
 ## Advantages/Disadvantages of docker/Virtual machines?
-1) ![alt text](image-1.png)
+1) ![alt text](images/image-1.png)
 
 ## Docker Desktop Includes?
-![alt text](image-2.png)
+![alt text](images/image-2.png)
