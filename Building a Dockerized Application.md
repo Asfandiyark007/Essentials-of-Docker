@@ -23,7 +23,7 @@ if __name__ == "__main__":
 
 ```
 
-3) Create a `requirements.txt` file and copy paste the below.
+3) Create a `requirements.txt` file and copy paste the below. (Note: These are old version and have a lot of vulnerabilities- only for testing)
 ```sh
 Flask==2.0.3
 Werkzeug==2.0.3
