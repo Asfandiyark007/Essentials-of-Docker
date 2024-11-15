@@ -23,7 +23,7 @@ if __name__ == "__main__":
 
 ```
 
-3) Create a `requirement.txt` file and copy paste the below.
+3) Create a `requirements.txt` file and copy paste the below.
 ```sh
 Flask==2.1.2
 ``` 
